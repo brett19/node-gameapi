@@ -1,0 +1,13 @@
+{
+  "main": "./lib/app",
+  "license" : "Apache2",
+  "name": "gameapi-couchbase",
+  "dependencies": {
+    "couchbase": "~1.0.0",
+    "express": "~3.4.0",
+    "uuid": "~1.4.1"
+  },
+  "devDependencies": {
+  },
+  "version": "0.0.1"
+}
